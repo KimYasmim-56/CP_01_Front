@@ -1,0 +1,17 @@
+#Tabela{
+    width: 70%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+}
+
+#Tabela th
+#Tabela td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+#Tabela th{
+    background-color: #f2f2f2;
+}
