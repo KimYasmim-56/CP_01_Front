@@ -1,17 +1,24 @@
 #Tabela{
-    width: 70%;
-    margin: 20px auto;
+    width: 80%;
+    margin: 30px auto;
     border-collapse: collapse;
-    font-family: Arial, sans-serif;
+    font-family: Arial;
 }
 
-#Tabela th
+#Tabela th,
 #Tabela td{
-    border: 1px solid black;
-    padding: 10px;
+    border: 1px solid #000000;
+    padding: 12px;
     text-align: center;
 }
 
 #Tabela th{
-    background-color: #f2f2f2;
+    background-color: #571616;
+    color: white;
+}
+
+p{
+    text-indent: 30px;
+    text-align: justify;
+    line height: 1.5;
 }
