@@ -16,7 +16,14 @@
     background-color: #571616;
     color: white;
 }
+.container-vinhos {
+    display: flex;
+    gap: 20px;
+}
 
+#vinhoTinto, #vinhoBranco {
+    width: 150px;
+}
 p{
     text-indent: 30px;
     text-align: justify;
